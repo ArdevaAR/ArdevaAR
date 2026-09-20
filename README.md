@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
 
-  <a href="https://github.com/Nexertc">
+  <a href="https://github.com/ArdevaAR">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -55,7 +55,7 @@ const Nexertc = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,bootstrap,figma,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,bootstrap,figma,git,github,vscode,linux,fedora&perline=6"/>
 
 </div>
 
@@ -94,7 +94,7 @@ const Nexertc = {
   <img src="https://img.shields.io/badge/🌍_Website-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
-<a href="https://github.com/Nexertc">
+<a href="https://github.com/ArdevaAR">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
