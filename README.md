@@ -54,9 +54,7 @@ const Nexertc = {
 # 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,bootstrap,figma,git,github,vscode,linux,fedora&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,express,nodejs,linux,git,github,vscode,mysql&perline=5"/>
 </div>
 
 ---
