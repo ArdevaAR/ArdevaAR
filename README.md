@@ -74,7 +74,9 @@ const Nexertc = {
 ---
 
 <!-- GitHub Streak -->
-<img align="center" src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak">
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak">
+</div>
 
 # 🌐 Connect With Me
 
