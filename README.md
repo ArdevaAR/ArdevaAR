@@ -73,7 +73,7 @@ const Nexertc = {
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardevaar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArdevaAR&show_icons=true&theme=tokyonight)
 
 # 🌐 Connect With Me
 
