@@ -74,17 +74,16 @@ const Nexertc = {
 ---
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Nexertc&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ArdevaAR&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexertc&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdevaAR&layout=compact&theme=tokyonight" alt="Top Languages">
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Nexertc&theme=tokyonight" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexertc&theme=tokyo-night" alt="GitHub Activity Graph">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdevaAR&theme=tokyo-night" alt="GitHub Activity Graph">
 
 # 🌐 Connect With Me
 
