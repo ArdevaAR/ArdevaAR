@@ -83,10 +83,13 @@ const Nexertc = {
   />
 </div>
 
+<br />
 
 <!-- GitHub Streak -->
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak" 
+  width="100%"
+  />
 </div>
 
 
