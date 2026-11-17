@@ -73,10 +73,22 @@ const Nexertc = {
 
 ---
 
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArdevaAR&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</div>
+
+
 <!-- GitHub Streak -->
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ArdevaAR&theme=tokyonight" alt="GitHub Streak">
 </div>
+
 
 # 🌐 Connect With Me
 
